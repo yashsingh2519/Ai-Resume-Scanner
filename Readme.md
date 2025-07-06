@@ -12,7 +12,7 @@ A smart resume scanner that extracts skills from your resume and compares them w
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/yourusername/Ai-Resume-Scanner.git
+git clone https://github.com/yashsingh2519/Ai-Resume-Scanner.git
 cd Ai-Resume-Scanner
 
 # 2. Install dependencies
